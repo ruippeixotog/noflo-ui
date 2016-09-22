@@ -5,6 +5,7 @@ info =
   noflo: require('./noflo.yaml')
   javafbp: require('./javafbp.yaml')
   microflo: require('./microflo.yaml')
+  scalafbp: require('./scalafbp.yaml')
 
 info['noflo-browser'] = info.noflo
 info['noflo-gnome'] = info.noflo

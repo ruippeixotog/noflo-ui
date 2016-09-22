@@ -1,0 +1,22 @@
+runtimetypes:
+  scalafbp:
+    shortname: 'ScalaFBP'
+    icon: 'code'
+    description: 'Build applications running in Scala'
+    helpurl: 'https://github.com/ruippeixotog/scalafbp'
+
+componenttemplates: {}
+
+examples:
+  countdown:
+    label: 'Countdown'
+    id: '1c38f126db6e4d8bc769edcc6a1b1e29'
+  randomvariables:
+    label: 'Random Variables'
+    id: '939fb939db361118f84cc2082ce3bb62'
+  bayesianinference:
+    label: 'Bayesian Inference'
+    id: 'e56223848646c5563689fa44a7ffd3fa'
+  bayesianinferenceinteractive:
+    label: 'Bayesian Inference (interactive)'
+    id: '7bf48c09e92cfc2d21553e6a528dd1e7'
